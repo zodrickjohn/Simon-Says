@@ -1,6 +1,6 @@
 # Simon Says Game
 
-![Simon Says Game](https://via.placeholder.com/800x400)
+![Simon Says Game](https://github.com/zodrickjohn/Simon-Says/blob/main/Screenshot%202024-04-27%20084010.png?raw=true)
 
 ## Description
 
